@@ -1,0 +1,54 @@
+
+[0;37m[1mAll machines with difficulty[0m[0m [0;31m[1mFácil[0m[0m[0;37m[1m are:[0m[0m
+[0;37m[1m[4m[1mValidation	Haystack	Bounty		Heist		Active
+Return		Traverxec	Curling		Knife		Frolic
+Horizontall	Tabby		Jerry		BountyHunter	Laboratory
+Love		Blunder		Paper		Lame		Blocky
+NodeBlog	Backdoor	Teacher		TimeLapse	Netmon
+NunChucks	Sense		Optimum		Legacy		Delivery
+GoodGames	SwagShop	Arctic		Devel		Remote
+Driver		Postman		RouterSpace	Valentine	Nibbles
+Toolbox		ServMon		Sauna		Forest		OpenSource
+SteamCloud	Buff		Blue		ScriptKiddie
+Antique		Pandora		Granny		Beep
+Shocker		Safe		Grandpa		Bank
+Secret		Admirer		Late		Doctor[0m[0m
+
+
+[0;37m[1mAll machines with difficulty[0m[0m [0;31m[1mMedia[0m[0m[0;37m[1m are:[0m[0m
+[0;37m[1m[4m[1mEpsilon		SneakyMailer	TartarSauce	Worker		SolidState
+Jeeves		Giddy		Cronos		Bart		Wall
+Pit		Passage		Time		Celestial	FluxCapacitor
+Flustered	Shibboleth	Nineveh		Resolute	Noter
+Bolt		Backend		Timing		Book		Json
+Hawk		October		Writer		Haircut		Sniper
+Intelligence	Aragog		Meta		Lazy		Mango
+Enterprise	Querier		Tenten		Catch		Luke
+Chaos		Cache		SecNotes	DevOops		StreamIO
+Seal		Forge		Chatterbox	Obscurity	Jewel
+Stratosphere	BackendTwo	Union		Node		Atom
+Devzat		Unicode		Monteverde	Apocalyst	Cascade
+Ransom		Schooled	Inception	Waldo		Poison
+Tenet		Bastard		Europa		Silo		Scrambled
+TheNotebook	RedCross	Undetected	Retired[0m[0m
+
+
+[0;37m[1mAll machines with difficulty[0m[0m [0;31m[1mDifícil[0m[0m[0;37m[1m are:[0m[0m
+[0;37m[1m[4m[1mTentacle	Mantis		Unobtainium	Phoenix		Flujab
+Mischief	Travel		Breadcrumbs	Falafel		Unbalanced
+Pressed		Altered		Search		Conceal		Talkative
+Blackfield	Tally		Oz		Oouch		Zetta
+EarlyAccess	Ellingson	Kotarak		Acute		Reel2
+Monitors	Quick		CrimeStoppers	Charon		Joker
+Scavenger	Overflow	AdmirerToo	Feline
+Hancliffe	Holiday		Reel		RE
+Object		Static		Dab		Shrek
+Helpline	Control		Player		OverGraph[0m[0m
+
+
+[0;37m[1mAll machines with difficulty[0m[0m [0;31m[1mInsane[0m[0m[0;37m[1m are:[0m[0m
+[0;37m[1m[4m[1mReddish		Stacked		Toby		CrossFit	Fulcrum
+Minion		Sink		Ariekei		Nightmare	Anubis
+Sizzle		Fighter		MultiMaster	Fortune		Brainfuck
+Bankrobber	Hackback	CTF		Jail		APT[0m[0m
+
