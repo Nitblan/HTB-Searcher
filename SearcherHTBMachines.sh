@@ -18,7 +18,7 @@ function crtl_c(){
 }
 
 # crtl_c 
-trap crtl_c INT
+trap crtl_c SIGINT
 
 #variables globales 
 main_url="https://htbmachines.github.io/bundle.js"
