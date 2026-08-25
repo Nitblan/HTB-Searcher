@@ -13,8 +13,8 @@ subrayar="\e[4m\033[1m"
 
 function crtl_c(){
   echo -e "\n\n${red}[!] Saliendo...${end}"
-  exit 1
   tput cnorm
+  exit 1
 }
 
 # crtl_c 
